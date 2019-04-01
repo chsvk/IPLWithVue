@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Chennai Super Kings",
+        "shortCut": "CSK",
+        "voteCount": 0,
+        "colorCode" : "#FFFF3C"
+    },
+    {
+        "name": "Sun Risers Hyderbad",
+        "shortCut": "SRH",
+        "voteCount": 0,
+        "colorCode" : "#FF822A"
+    },
+    {
+        "name": "Kolkata Knight Riders",
+        "shortCut": "KKR",
+        "voteCount": 0,
+        "colorCode" : "#2E0854"
+    },
+    {
+        "name": "Delhi Capitals",
+        "shortCut": "DC",
+        "voteCount": 0,
+        "colorCode" : "#E32A26"
+    },
+    {
+        "name": "Kings XI Punjab",
+        "shortCut": "Kings XI",
+        "voteCount": 0,
+        "colorCode" : "#ED1B24"
+    },
+    {
+        "name": "Mumbai Indians",
+        "shortCut": "MI",
+        "voteCount": 0,
+        "colorCode" : "#004BA0"
+    },
+    {
+        "name": "Rajastan Royals",
+        "shortCut": "RR",
+        "voteCount": 0,
+        "colorCode" : "#004BA0"
+    },
+    {
+        "name": "Royal Challengers Bangalore",
+        "shortCut": "RCB",
+        "voteCount": 0,
+        "colorCode" : "#EC1C24"
+    }
+]
