@@ -12,12 +12,7 @@ const options = {
 Vue.use(VueSweetalert2, options);
 
 firebase.initializeApp({
-  apiKey: "AIzaSyC_I2CKy6JFrWb7yCh4lN0B45zN3vgE7RY",
-    authDomain: "iplwithvue.firebaseapp.com",
-    databaseURL: "https://iplwithvue.firebaseio.com",
-    projectId: "iplwithvue",
-    storageBucket: "iplwithvue.appspot.com",
-    messagingSenderId: "972348038516"
+ // Insert Config File here
 })
 Vue.config.productionTip = false
 
